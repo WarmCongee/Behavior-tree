@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wengyuzhe/CLionProjects/BT/CLionProjects/behavior_tree/main.cpp
+node.h
+/home/wengyuzhe/CLionProjects/BT/CLionProjects/behavior_tree/node.h
+
+/home/wengyuzhe/CLionProjects/BT/CLionProjects/behavior_tree/node.h
+string
+-
+utility
+-
+iostream
+-
+vector
+-
+memory
+-
+
